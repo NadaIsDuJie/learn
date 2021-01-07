@@ -1,0 +1,11 @@
+F:\linshiwenjianjia\YEARMOUTHDAY\obj\Debug\netcoreapp2.1\YEARMOUTHDAY.csprojAssemblyReference.cache
+F:\linshiwenjianjia\YEARMOUTHDAY\obj\Debug\netcoreapp2.1\YEARMOUTHDAY.csproj.CoreCompileInputs.cache
+F:\linshiwenjianjia\YEARMOUTHDAY\obj\Debug\netcoreapp2.1\YEARMOUTHDAY.AssemblyInfoInputs.cache
+F:\linshiwenjianjia\YEARMOUTHDAY\obj\Debug\netcoreapp2.1\YEARMOUTHDAY.AssemblyInfo.cs
+F:\linshiwenjianjia\YEARMOUTHDAY\bin\Debug\netcoreapp2.1\YEARMOUTHDAY.deps.json
+F:\linshiwenjianjia\YEARMOUTHDAY\bin\Debug\netcoreapp2.1\YEARMOUTHDAY.runtimeconfig.json
+F:\linshiwenjianjia\YEARMOUTHDAY\bin\Debug\netcoreapp2.1\YEARMOUTHDAY.runtimeconfig.dev.json
+F:\linshiwenjianjia\YEARMOUTHDAY\bin\Debug\netcoreapp2.1\YEARMOUTHDAY.dll
+F:\linshiwenjianjia\YEARMOUTHDAY\bin\Debug\netcoreapp2.1\YEARMOUTHDAY.pdb
+F:\linshiwenjianjia\YEARMOUTHDAY\obj\Debug\netcoreapp2.1\YEARMOUTHDAY.dll
+F:\linshiwenjianjia\YEARMOUTHDAY\obj\Debug\netcoreapp2.1\YEARMOUTHDAY.pdb
